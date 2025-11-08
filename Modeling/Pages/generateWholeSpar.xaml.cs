@@ -310,7 +310,7 @@ namespace Modeling.Pages
                 skinSketchDef.SetPlane(part.GetDefaultEntity((short)Obj3dType.o3d_planeXOZ));
                 skinSketch.Create();
                 
-                //рисуем профиль крыла в эскизе
+                //Отрисовка профиля крыла в эскизе
                 ksDocument2D skinSketchEdit = (ksDocument2D)skinSketchDef.BeginEdit();
                 for (int i = 0; i < xUpper.Length - 1; i++)
                     skinSketchEdit.ksLineSeg(xUpper[i], yUpper[i], xUpper[i + 1], yUpper[i + 1], 1);
@@ -322,7 +322,7 @@ namespace Modeling.Pages
                 skinSketchEdit.ksLineSeg(xUpper[xUpper.Length - 1], yUpper[yUpper.Length - 1], xLower[xLower.Length - 1], yLower[yLower.Length - 1], 1);
                 skinSketchDef.EndEdit();
 
-                //создаю 3д объект
+                //Создание 3д объекта
                 ksEntity skinExtrude = (ksEntity)part.NewEntity((short)Obj3dType.o3d_bossExtrusion);
                 ksBossExtrusionDefinition extDef = (ksBossExtrusionDefinition)skinExtrude.GetDefinition();
                 extDef.directionType = (short)Direction_Type.dtNormal;
@@ -436,9 +436,7 @@ namespace Modeling.Pages
                     yUpper,
                     xLower,
                     yLower,
-                    "Riveting", //когда то передавалось значение типа заклепки из комбобокса,
-                                //но потом все перестало работать,
-                                //а нормально переделать времени не было, поэтому костыли (такого будет много...)
+                    "Riveting", //доделать
                     tbRivetDiameter,
                     tbRivetSpacing,
                     tbRivetHeight,

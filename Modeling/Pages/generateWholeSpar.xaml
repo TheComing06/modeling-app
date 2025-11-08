@@ -33,7 +33,7 @@
                                     </StackPanel>
                                     <StackPanel Orientation="Horizontal">
                                         <Label Content="Позиции лонжеронов (%):" Width="150"/>
-                                        <TextBox x:Name="tbSparPositions" Width="200" ToolTip="Значения, разделённые запятыми (например, 20,50)" Text="30"/>
+                                        <TextBox x:Name="tbSparPositions" Width="100" ToolTip="Значения, разделённые запятыми (например, 20,50)" Text="30"/>
                                     </StackPanel>
                                     <StackPanel Orientation="Horizontal">
                                         <Label Content="Толщина верхнего пояса:" Width="150"/>
@@ -184,7 +184,7 @@
         <!-- Кнопки действий -->
         <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right" Margin="10">
             <Button Content="Предпросмотр" Width="100" Margin="5" Click="BtnPreview_Click"/>
-            <Button Content="Сгенерировать крыло" Width="100" Margin="5" Click="BtnGenerate_Click"/>
+            <Button Content="Сгенерировать крыло" Width="auto" Margin="5" Click="BtnGenerate_Click"/>
         </StackPanel>
     </Grid>
 </Page>
