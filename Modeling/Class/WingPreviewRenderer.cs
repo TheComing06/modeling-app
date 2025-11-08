@@ -8,9 +8,7 @@ using System.Windows;
 
 namespace Modeling.Class
 {
-    //класс для создания обшивки, тут все делается на основе naca кода, 4 значный полностью рабочий,
-    //а вот 5 значный фигня какая то, некоторые значения лдя расчета уже определены в Dictionary что не круто,
-    //но работает и ладно
+    //класс для создания обшивки
     class WingPreviewRenderer
     {
         private static readonly Dictionary<int, (double m, double k1)> Naca5Series = new Dictionary<int, (double, double)>

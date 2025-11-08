@@ -8,7 +8,6 @@ using System.Windows.Controls;
 
 namespace Modeling.Class
 {
-    //не сильно та работающий класс для заклепок
     class RivetGenerators
     {
         private void CreateRivet(ksPart part, double x, double y, double z, double diameter, double height, string rivetType, double skinThickness, bool isUpper)
