@@ -16,7 +16,7 @@ namespace Modeling.Class
             try
             {
                 // Корректировка z-координаты для потайных заклёпок
-                double adjustedZ = z;
+                double adjustedZ = z-37.5;
                 if (rivetType == "Потайные")
                 {
                     adjustedZ += isUpper ? -skinThickness : skinThickness;
@@ -25,7 +25,7 @@ namespace Modeling.Class
                 // Создание плоскости для заклёпки на внешней поверхности
                 ksEntity plane = (ksEntity)part.NewEntity((short)Obj3dType.o3d_planeOffset);
                 ksPlaneOffsetDefinition planeDef = (ksPlaneOffsetDefinition)plane.GetDefinition();
-                planeDef.SetPlane(part.GetDefaultEntity((short)Obj3dType.o3d_planeXOZ));
+                planeDef.SetPlane(part.GetDefaultEntity((short)Obj3dType.o3d_planeXOY));
                 planeDef.direction = true;
                 planeDef.offset = adjustedZ;
                 plane.Create();
@@ -36,7 +36,7 @@ namespace Modeling.Class
                 rivetSketchDef.SetPlane(plane);
                 rivetSketch.Create();
                 ksDocument2D rivetSketchEdit = (ksDocument2D)rivetSketchDef.BeginEdit();
-                rivetSketchEdit.ksCircle(x, z, diameter / 2, 1);
+                rivetSketchEdit.ksCircle(x, y, diameter / 2, 1);
                 rivetSketchDef.EndEdit();
 
                 if (rivetType == "Потайные")
