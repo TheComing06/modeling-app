@@ -1,0 +1,190 @@
+﻿<Page x:Class="Modeling.Pages.generateWholeSpar"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Modeling.Pages"
+      mc:Ignorable="d" d:DesignWidth="800"
+      Title="Генерация крыла" Background="White" Height="730">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Основной контент с прокруткой -->
+        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
+            <Grid>
+                <!-- Внутренний контейнер -->
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <!-- Секция ввода параметров -->
+                <StackPanel Margin="10">
+                    <GroupBox Header="Параметры лонжерона">
+                        <StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <StackPanel>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Label Content="Количество лонжеронов:" Width="150"/>
+                                        <TextBox x:Name="tbSparCount" Width="100" Text="1"/>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Label Content="Позиции лонжеронов (%):" Width="150"/>
+                                        <TextBox x:Name="tbSparPositions" Width="200" ToolTip="Значения, разделённые запятыми (например, 20,50)" Text="30"/>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Label Content="Толщина верхнего пояса:" Width="150"/>
+                                        <TextBox x:Name="tbUpperFlangeThickness" Width="100" Text="10"/>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Label Content="Толщина нижнего пояса:" Width="150"/>
+                                        <TextBox x:Name="tbLowerFlangeThickness" Width="100" Text="10"/>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Label Content="Высота верхнего пояса:" Width="150"/>
+                                        <TextBox x:Name="tbUpperFlangeHeight" Width="100" Text="10"/>
+                                    </StackPanel>
+                                </StackPanel>
+                                <StackPanel>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Label Content="Высота нижнего пояса:" Width="150"/>
+                                        <TextBox x:Name="tbLowerFlangeHeight" Width="100" Text="10"/>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Label Content="Внутренняя ширина:" Width="150"/>
+                                        <TextBox x:Name="tbInternalWidth" Width="100" Text="5"/>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Label Content="Длина выдавливания:" Width="150"/>
+                                        <TextBox x:Name="tbExtrusion" Width="100" Text="2000"/>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Label Content="Материал" Width="150"/>
+                                        <TextBox x:Name="tbMaterialLonj" Width="100" Text=""/>
+                                        <Button Content="🔍" x:Name="btn_searchLonj" Margin="5,0,0,0" Height="25" Width="25" Click="btn_searchLonj_Click" BorderBrush="#FFABADB3"/>
+                                    </StackPanel>
+                                </StackPanel>
+                            </StackPanel>
+                        </StackPanel>
+                    </GroupBox>
+
+                    <GroupBox Header="Параметры обшивки">
+                        <StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Код NACA:" Width="150"/>
+                                <TextBox x:Name="tbNacaCode" Width="100" Text="2412"/>
+                                <ComboBox x:Name="cbNacaType" Width="100" Margin="5,0">
+                                    <ComboBoxItem Content="4-Digit"/>
+                                    <ComboBoxItem Content="5-Digit"/>
+                                </ComboBox>
+                                <Button x:Name="btnNacaCodeHelp" Content="?" Width="25" Height="25" Margin="5,0" Click="btnNacaCodeHelp_Click"/>
+                            </StackPanel>
+                            
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Длина хорды:" Width="150"/>
+                                <TextBox x:Name="tbChordLength" Width="100" Text="1000"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Толщина обшивки:" Width="150"/>
+                                <TextBox x:Name="tbSkinThickness" Width="100" Text="2"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Размах крыла:" Width="150"/>
+                                <TextBox x:Name="tbWingSpan" Width="100" Text="2000"/>
+                            </StackPanel>
+                           
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материал" Width="150"/>
+                                <TextBox x:Name="tbMaterialSkin" Width="100" Text=""/>
+                                <Button Content="🔍" x:Name="btn_searchSkin" Margin="5,0,0,0" Height="25" Width="25" Click="btn_searchSkin_Click" BorderBrush="#FFABADB3"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </GroupBox>
+
+                    <GroupBox Header="Параметры заклёпок">
+                        <StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Тип заклёпок:" Width="150"/>
+                                <ComboBox x:Name="cbRivetType" Width="150">
+                                    <ComboBoxItem Content="Сплошные"/>
+                                    <ComboBoxItem Content="Потайные"/>
+                                </ComboBox>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Диаметр заклёпок (мм):" Width="150"/>
+                                <TextBox x:Name="tbRivetDiameter" Width="100" Text="3"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Высота заклёпок (мм):" Width="150"/>
+                                <TextBox x:Name="tbRivetHeight" Width="100" Text="6"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Шаг заклёпок (мм):" Width="150"/>
+                                <TextBox x:Name="tbRivetSpacing" Width="100" Text="15"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Схема размещения:" Width="150"/>
+                                <ComboBox x:Name="cbRivetPattern" Width="150">
+                                    <ComboBoxItem Content="Однорядная"/>
+                                    <ComboBoxItem Content="Двухрядная"/>
+                                    <ComboBoxItem Content="Шахматная"/>
+                                </ComboBox>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Расположение заклёпок:" Width="150"/>
+                                <ComboBox x:Name="cbRivetLocation" Width="150">
+                                    <ComboBoxItem Content="Лонжероны"/>
+                                    <ComboBoxItem Content="Нервюры"/>
+                                    <ComboBoxItem Content="Лонжероны и нервюры"/>
+                                </ComboBox>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материал заклёпок:" Width="150"/>
+                                <TextBox x:Name="tbMaterialRivets" Width="100" Text=""/>
+                                <Button Content="🔍" x:Name="btn_searchRivets" Margin="5,0,0,0" Height="25" Width="25" Click="btn_searchRivets_Click" BorderBrush="#FFABADB3"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </GroupBox>
+
+                    <GroupBox Header="Параметры нервюр">
+                        <StackPanel>
+                            
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Шаг нервюр (мм):" Width="150"/>
+                                <TextBox x:Name="tbRibSpacing" Width="100" Text="500"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Толщина нервюры:" Width="150"/>
+                                <TextBox x:Name="tbRibThickness" Width="100" Text="2"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Вариант расстановки:" Width="150"/>
+                                <ComboBox x:Name="cbRibArrangement" Width="150">
+                                    <ComboBoxItem Content="Равномерный"/>
+                                    <ComboBoxItem Content="Уплотненный в корне"/>
+                                    <ComboBoxItem Content="Уплотненный на концах"/>
+                                </ComboBox>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Материал" Width="150"/>
+                                <TextBox x:Name="tbMaterialRibs" Width="100" Text=""/>
+                                <Button Content="🔍" x:Name="btn_searchRibs" Margin="5,0,0,0" Height="25" Width="25" Click="btn_searchRibs_Click" BorderBrush="#FFABADB3"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </GroupBox>
+                </StackPanel>
+
+                <!-- Область предпросмотра -->
+                <Canvas x:Name="previewCanvas" Grid.Row="1" Background="LightGray" Margin="10" Height="200"/>
+            </Grid>
+        </ScrollViewer>
+        <!-- Кнопки действий -->
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right" Margin="10">
+            <Button Content="Предпросмотр" Width="100" Margin="5" Click="BtnPreview_Click"/>
+            <Button Content="Сгенерировать крыло" Width="100" Margin="5" Click="BtnGenerate_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>
