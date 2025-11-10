@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\modeling-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|d:\\projects\\modeling-app\\modeling\\pages\\generatewholespar.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|solutionrelative:modeling\\pages\\generatewholespar.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|D:\\Projects\\modeling-app\\modeling\\class\\wingpreviewrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|solutionrelative:modeling\\class\\wingpreviewrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|D:\\Projects\\modeling-app\\modeling\\class\\ribgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|solutionrelative:modeling\\class\\ribgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|D:\\Projects\\modeling-app\\modeling\\class\\wingtipgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|solutionrelative:modeling\\class\\wingtipgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|D:\\Projects\\modeling-app\\modeling\\windows\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|solutionrelative:modeling\\windows\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|D:\\Projects\\modeling-app\\modeling\\windows\\searchmaterial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|solutionrelative:modeling\\windows\\searchmaterial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|D:\\Projects\\modeling-app\\modeling\\generationfunctions\\generatefunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|solutionrelative:modeling\\generationfunctions\\generatefunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|D:\\Projects\\modeling-app\\modeling\\class\\rivetgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|solutionrelative:modeling\\class\\rivetgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|D:\\Projects\\modeling-app\\modeling\\pages\\generatewholespar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|solutionrelative:modeling\\pages\\generatewholespar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|D:\\Projects\\modeling-app\\modeling\\pages\\wingdesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|solutionrelative:modeling\\pages\\wingdesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|D:\\Projects\\modeling-app\\modeling\\class\\loggingactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|solutionrelative:modeling\\class\\loggingactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|D:\\Projects\\modeling-app\\modeling\\windows\\searchmaterial.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|solutionrelative:modeling\\windows\\searchmaterial.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|D:\\Projects\\modeling-app\\modeling\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|solutionrelative:modeling\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|D:\\Projects\\modeling-app\\modeling\\windows\\generatesparwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|solutionrelative:modeling\\windows\\generatesparwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|D:\\Projects\\modeling-app\\modeling\\windows\\generatesparwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|solutionrelative:modeling\\windows\\generatesparwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|D:\\Projects\\modeling-app\\modeling\\constructors\\allconstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652A2205-D82D-46B0-B4A5-84174AD5E9B5}|Modeling\\3.csproj|solutionrelative:modeling\\constructors\\allconstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "generateWholeSpar.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\modeling-app\\Modeling\\Pages\\generateWholeSpar.xaml.cs",
+              "RelativeDocumentMoniker": "Modeling\\Pages\\generateWholeSpar.xaml.cs",
+              "ToolTip": "D:\\Projects\\modeling-app\\Modeling\\Pages\\generateWholeSpar.xaml.cs",
+              "RelativeToolTip": "Modeling\\Pages\\generateWholeSpar.xaml.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAiwKwBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:41:26.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WingPreviewRenderer.cs",
+              "DocumentMoniker": "D:\\Projects\\modeling-app\\Modeling\\Class\\WingPreviewRenderer.cs",
+              "RelativeDocumentMoniker": "Modeling\\Class\\WingPreviewRenderer.cs",
+              "ToolTip": "D:\\Projects\\modeling-app\\Modeling\\Class\\WingPreviewRenderer.cs",
+              "RelativeToolTip": "Modeling\\Class\\WingPreviewRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:19:05.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RibGenerator.cs",
+              "DocumentMoniker": "D:\\Projects\\modeling-app\\Modeling\\Class\\RibGenerator.cs",
+              "RelativeDocumentMoniker": "Modeling\\Class\\RibGenerator.cs",
+              "ToolTip": "D:\\Projects\\modeling-app\\Modeling\\Class\\RibGenerator.cs",
+              "RelativeToolTip": "Modeling\\Class\\RibGenerator.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:40:47.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WingtipGenerator.cs",
+              "DocumentMoniker": "D:\\Projects\\modeling-app\\Modeling\\Class\\WingtipGenerator.cs",
+              "RelativeDocumentMoniker": "Modeling\\Class\\WingtipGenerator.cs",
+              "ToolTip": "D:\\Projects\\modeling-app\\Modeling\\Class\\WingtipGenerator.cs",
+              "RelativeToolTip": "Modeling\\Class\\WingtipGenerator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:41:04.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\modeling-app\\Modeling\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Modeling\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Projects\\modeling-app\\Modeling\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Modeling\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAgwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T18:36:07.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\modeling-app\\Modeling\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Modeling\\Windows\\MainWindow.xaml",
+              "ToolTip": "D:\\Projects\\modeling-app\\Modeling\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "Modeling\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-16T18:35:56.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "searchMaterial.xaml",
+              "DocumentMoniker": "D:\\Projects\\modeling-app\\Modeling\\Windows\\searchMaterial.xaml",
+              "RelativeDocumentMoniker": "Modeling\\Windows\\searchMaterial.xaml",
+              "ToolTip": "D:\\Projects\\modeling-app\\Modeling\\Windows\\searchMaterial.xaml",
+              "RelativeToolTip": "Modeling\\Windows\\searchMaterial.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T07:44:53.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "generateFunc.cs",
+              "DocumentMoniker": "D:\\Projects\\modeling-app\\Modeling\\generationFunctions\\generateFunc.cs",
+              "RelativeDocumentMoniker": "Modeling\\generationFunctions\\generateFunc.cs",
+              "ToolTip": "D:\\Projects\\modeling-app\\Modeling\\generationFunctions\\generateFunc.cs",
+              "RelativeToolTip": "Modeling\\generationFunctions\\generateFunc.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAADwv6QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:41:14.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RivetGenerators.cs",
+              "DocumentMoniker": "D:\\Projects\\modeling-app\\Modeling\\Class\\RivetGenerators.cs",
+              "RelativeDocumentMoniker": "Modeling\\Class\\RivetGenerators.cs",
+              "ToolTip": "D:\\Projects\\modeling-app\\Modeling\\Class\\RivetGenerators.cs",
+              "RelativeToolTip": "Modeling\\Class\\RivetGenerators.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAAcwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:34:29.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "generateWholeSpar.xaml",
+              "DocumentMoniker": "D:\\Projects\\modeling-app\\Modeling\\Pages\\generateWholeSpar.xaml",
+              "RelativeDocumentMoniker": "Modeling\\Pages\\generateWholeSpar.xaml",
+              "ToolTip": "D:\\Projects\\modeling-app\\Modeling\\Pages\\generateWholeSpar.xaml",
+              "RelativeToolTip": "Modeling\\Pages\\generateWholeSpar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T07:53:30.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "searchMaterial.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\modeling-app\\Modeling\\Windows\\searchMaterial.xaml.cs",
+              "RelativeDocumentMoniker": "Modeling\\Windows\\searchMaterial.xaml.cs",
+              "ToolTip": "D:\\Projects\\modeling-app\\Modeling\\Windows\\searchMaterial.xaml.cs",
+              "RelativeToolTip": "Modeling\\Windows\\searchMaterial.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:42:29.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "loggingActions.cs",
+              "DocumentMoniker": "D:\\Projects\\modeling-app\\Modeling\\Class\\loggingActions.cs",
+              "RelativeDocumentMoniker": "Modeling\\Class\\loggingActions.cs",
+              "ToolTip": "D:\\Projects\\modeling-app\\Modeling\\Class\\loggingActions.cs",
+              "RelativeToolTip": "Modeling\\Class\\loggingActions.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:40:44.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "generateSparWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\modeling-app\\Modeling\\Windows\\generateSparWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Modeling\\Windows\\generateSparWindow.xaml.cs",
+              "ToolTip": "D:\\Projects\\modeling-app\\Modeling\\Windows\\generateSparWindow.xaml.cs",
+              "RelativeToolTip": "Modeling\\Windows\\generateSparWindow.xaml.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAuwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:47:50.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "allConstruct.cs",
+              "DocumentMoniker": "D:\\Projects\\modeling-app\\Modeling\\constructors\\allConstruct.cs",
+              "RelativeDocumentMoniker": "Modeling\\constructors\\allConstruct.cs",
+              "ToolTip": "D:\\Projects\\modeling-app\\Modeling\\constructors\\allConstruct.cs",
+              "RelativeToolTip": "Modeling\\constructors\\allConstruct.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:41:08.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "generateSparWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\modeling-app\\Modeling\\Windows\\generateSparWindow.xaml",
+              "RelativeDocumentMoniker": "Modeling\\Windows\\generateSparWindow.xaml",
+              "ToolTip": "D:\\Projects\\modeling-app\\Modeling\\Windows\\generateSparWindow.xaml",
+              "RelativeToolTip": "Modeling\\Windows\\generateSparWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-16T18:36:20.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WingDesign.cs",
+              "DocumentMoniker": "D:\\Projects\\modeling-app\\Modeling\\Pages\\WingDesign.cs",
+              "RelativeDocumentMoniker": "Modeling\\Pages\\WingDesign.cs",
+              "ToolTip": "D:\\Projects\\modeling-app\\Modeling\\Pages\\WingDesign.cs",
+              "RelativeToolTip": "Modeling\\Pages\\WingDesign.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:47:58.592Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

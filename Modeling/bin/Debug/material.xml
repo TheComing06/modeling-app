@@ -1,0 +1,479 @@
+<dataroot
+	xmlns:od="urn:schemas-microsoft-com:officedata"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="2023-10-16T04:10:57">
+- 
+	<material>
+		<name>Сталь 08 ГОСТ 1050-2013</name>
+		<density>7.871</density>
+	</material>
+- 
+	<material>
+		<name>Сталь 10 ГОСТ 1050-2013</name>
+		<density>7.856</density>
+	</material>
+- 
+	<material>
+		<name>Сталь 15 ГОСТ 1050-2013</name>
+		<density>7.85</density>
+	</material>
+- 
+	<material>
+		<name>Сталь 20 ГОСТ 1050-2013</name>
+		<density>7.859</density>
+	</material>
+- 
+	<material>
+		<name>Сталь 25 ГОСТ 1050-2013</name>
+		<density>7.82</density>
+	</material>
+- 
+	<material>
+		<name>Сталь 35 ГОСТ 1050-2013</name>
+		<density>7.826</density>
+	</material>
+- 
+	<material>
+		<name>Сталь 40 ГОСТ 1050-2013</name>
+		<density>7.85</density>
+	</material>
+- 
+	<material>
+		<name>Сталь 45 ГОСТ 1050-2013</name>
+		<density>7.81</density>
+	</material>
+- 
+	<material>
+		<name>Сталь 60С2А ГОСТ 14959-2016</name>
+		<density>7.68</density>
+	</material>
+- 
+	<material>
+		<name>Сталь 65С2ВА ГОСТ 14959-2016</name>
+		<density>7.85</density>
+	</material>
+- 
+	<material>
+		<name>Сталь 40Х ГОСТ 4543-2016</name>
+		<density>7.85</density>
+	</material>
+- 
+	<material>
+		<name>Сталь 30ХГСА ГОСТ 4543-2016</name>
+		<density>7.85</density>
+	</material>
+- 
+	<material>
+		<name>Сталь 9ХВГ ГОСТ 5950-2000</name>
+		<density>7.85</density>
+	</material>
+- 
+	<material>
+		<name>Сталь ХВГ ГОСТ 5950-2000</name>
+		<density>7.85</density>
+	</material>
+- 
+	<material>
+		<name>Сталь 25Г2С ГОСТ 5781-82</name>
+		<density>7.85</density>
+	</material>
+- 
+	<material>
+		<name>СЧ10 ГОСТ 1412-85</name>
+		<density>6.80</density>
+	</material>
+- 
+	<material>
+		<name>СЧ18 ГОСТ 1412-85</name>
+		<density>7.20</density>
+	</material>
+- 
+	<material>
+		<name>СЧ25 ГОСТ 1412-85</name>
+		<density>7.20</density>
+	</material>
+- 
+	<material>
+		<name>СЧ35 ГОСТ 1412-85</name>
+		<density>7.40</density>
+	</material>
+- 
+	<material>
+		<name>ВЧ35 ГОСТ 7293-85</name>
+		<density>7.20</density>
+	</material>
+- 
+	<material>
+		<name>ВЧ35 ГОСТ 7293-8</name>
+		<density>7.20</density>
+	</material>
+- 
+	<material>
+		<name>ВЧ45 ГОСТ 7293-85</name>
+		<density>7.20</density>
+	</material>
+- 
+	<material>
+		<name>ВЧ60 ГОСТ 7293-85</name>
+		<density>7.20</density>
+	</material>
+- 
+	<material>
+		<name>ВЧ80 ГОСТ 7293-85</name>
+		<density>7.20</density>
+	</material>
+- 
+	<material>
+		<name>АД0 ГОСТ 4784-2019</name>
+		<density>2.71</density>
+	</material>
+- 
+	<material>
+		<name>АД1 ГОСТ 4784-2019</name>
+		<density>2.71</density>
+	</material>
+- 
+	<material>
+		<name>Д1 ГОСТ 4784-2019</name>
+		<density>2.80</density>
+	</material>
+- 
+	<material>
+		<name>Д16 ГОСТ 4784-2019</name>
+		<density>2.77</density>
+	</material>
+- 
+	<material>
+		<name>АК6 ГОСТ 4784-2019</name>
+		<density>2.75</density>
+	</material>
+- 
+	<material>
+		<name>Сплав АЛ2 ГОСТ 1583-93</name>
+		<density>2.65</density>
+	</material>
+- 
+	<material>
+		<name>Сплав АЛ8 ГОСТ 1583-93</name>
+		<density>2.55</density>
+	</material>
+- 
+	<material>
+		<name>АМг2 ГОСТ 4784-2019</name>
+		<density>2.69</density>
+	</material>
+- 
+	<material>
+		<name>АМг6 ГОСТ 4784-2019</name>
+		<density>2.65</density>
+	</material>
+- 
+	<material>
+		<name>В95оч ГОСТ 4784-2019</name>
+		<density>2.85</density>
+	</material>
+- 
+	<material>
+		<name>БрАЖ9-4 ГОСТ 18175-78</name>
+		<density>7.50</density>
+	</material>
+- 
+	<material>
+		<name>БрАЖМц10-3-1,5 ГОСТ 18175-78</name>
+		<density>7.60</density>
+	</material>
+- 
+	<material>
+		<name>БрКМц3-1 ГОСТ 18175-78</name>
+		<density>8.40</density>
+	</material>
+- 
+	<material>
+		<name>БрБ2 ГОСТ 18175-78</name>
+		<density>8.23</density>
+	</material>
+- 
+	<material>
+		<name>ВТ1-0 ГОСТ 19807-91</name>
+		<density>4.50</density>
+	</material>
+- 
+	<material>
+		<name>ВТ14 ГОСТ 19807-91</name>
+		<density>4.52</density>
+	</material>
+- 
+	<material>
+		<name>ОТ4 ГОСТ 19807-91</name>
+		<density>4.55</density>
+	</material>
+- 
+	<material>
+		<name>Вольфрам</name>
+		<density>19.30</density>
+	</material>
+- 
+	<material>
+		<name>Зл 99,99 ГОСТ 6835-2002</name>
+		<density>19.30</density>
+	</material>
+- 
+	<material>
+		<name>Ср 99,99 ГОСТ 6836-2002</name>
+		<density>10.50</density>
+	</material>
+- 
+	<material>
+		<name>Константан МНМц40-1,5 ГОСТ 492-2006</name>
+		<density>8.90</density>
+	</material>
+- 
+	<material>
+		<name>Л63 ГОСТ 15527-2004</name>
+		<density>8.8</density>
+	</material>
+- 
+	<material>
+		<name>ЛС 59-1 ГОСТ 15527-2004</name>
+		<density>8.50</density>
+	</material>
+- 
+	<material>
+		<name>МА8 ГОСТ 14957-76</name>
+		<density>1.78</density>
+	</material>
+- 
+	<material>
+		<name>Сплав МЛ5 ГОСТ 2856-79</name>
+		<density>1.81</density>
+	</material>
+- 
+	<material>
+		<name>М3 ГОСТ 859-2014</name>
+		<density>8.94</density>
+	</material>
+- 
+	<material>
+		<name>Молибден</name>
+		<density>10.20</density>
+	</material>
+- 
+	<material>
+		<name>Нихром Х20Н80 ГОСТ 10994-74</name>
+		<density>8.35</density>
+	</material>
+- 
+	<material>
+		<name>О1 ГОСТ 860-75</name>
+		<density>7.30</density>
+	</material>
+- 
+	<material>
+		<name>ПДИ 82-18 ГОСТ 13462-2010</name>
+		<density>13.25</density>
+	</material>
+- 
+	<material>
+		<name>Ртуть</name>
+		<density>13.596</density>
+	</material>
+- 
+	<material>
+		<name>С0 ГОСТ 3778-98</name>
+		<density>11.4</density>
+	</material>
+- 
+	<material>
+		<name>Уран</name>
+		<density>18.70</density>
+	</material>
+- 
+	<material>
+		<name>Пиломатериал сосна ГОСТ 8486-86</name>
+		<density>0.60</density>
+	</material>
+- 
+	<material>
+		<name>Пиломатериал береза ГОСТ 2695-83</name>
+		<density>0.65</density>
+	</material>
+- 
+	<material>
+		<name>Фанера, береза,ФСФ ВВ/С ГОСТ 3916.1-2018</name>
+		<density>0.76</density>
+	</material>
+- 
+	<material>
+		<name>Фанера, сосна,ФСФ ВВ/С ГОСТ 3916.2-2018</name>
+		<density>0.50</density>
+	</material>
+- 
+	<material>
+		<name>Пенопласт ПЭ-2 ТУ В-172-70</name>
+		<density>0.27</density>
+	</material>
+- 
+	<material>
+		<name>Пенопласт ПЭН ТУ 6-03-4-3-72</name>
+		<density>0.20</density>
+	</material>
+- 
+	<material>
+		<name>Полиамид П-12Б-20 ТУ 6-05-898-73</name>
+		<density>1.02</density>
+	</material>
+- 
+	<material>
+		<name>Полипропилен ГОСТ 26996-86</name>
+		<density>0.9</density>
+	</material>
+- 
+	<material>
+		<name>Полиэтилен НД ГОСТ 16338-85</name>
+		<density>0.95</density>
+	</material>
+- 
+	<material>
+		<name>Полиэтилен ВД ГОСТ 16337-77</name>
+		<density>0.93</density>
+	</material>
+- 
+	<material>
+		<name>Фторопласт-4 ГОСТ 10007-80 Е</name>
+		<density>2.20</density>
+	</material>
+- 
+	<material>
+		<name>Пресс-материал К-81-39 ТУ 6-05-1651-73</name>
+		<density>1.95</density>
+	</material>
+- 
+	<material>
+		<name>Пресс-материал УП-264П ТУ 6-05-22-73</name>
+		<density>2</density>
+	</material>
+- 
+	<material>
+		<name>Смесь резиновая 3063 ТУ 38-1051082-86</name>
+		<density>1.28</density>
+	</material>
+- 
+	<material>
+		<name>Смесь резиновая В-14 ТУ 005.1166-87</name>
+		<density>1.28</density>
+	</material>
+- 
+	<material>
+		<name>Смесь резиновая ИРП-1068 ТУ 38-1051082-86</name>
+		<density>1.28</density>
+	</material>
+- 
+	<material>
+		<name>Рукав 6-18-120-У ГОСТ 25452-2017</name>
+		<density>1.28</density>
+	</material>
+- 
+	<material>
+		<name>Рукав 8-20-120-У ГОСТ 25452-2017</name>
+		<density>1.28</density>
+	</material>
+- 
+	<material>
+		<name>Рукав 10-22-120-У ГОСТ 25452-2017</name>
+		<density>1.28</density>
+	</material>
+- 
+	<material>
+		<name>Рукав 12-24-120-У ГОСТ 25452-2017</name>
+		<density>1.28</density>
+	</material>
+- 
+	<material>
+		<name>Рукав 16-28-120-У ГОСТ 25452-2017</name>
+		<density>1.28</density>
+	</material>
+- 
+	<material>
+		<name>Стекло БК10 ГОСТ 3514-94</name>
+		<density>3.12</density>
+	</material>
+- 
+	<material>
+		<name>Стекло БФ1 ГОСТ 3514-94</name>
+		<density>2.67</density>
+	</material>
+- 
+	<material>
+		<name>Стекло КФ4 ГОСТ 3514-94</name>
+		<density>2.57</density>
+	</material>
+- 
+	<material>
+		<name>Стекло ОФ1 ГОСТ 3514-94</name>
+		<density>2.56</density>
+	</material>
+- 
+	<material>
+		<name>Стекло ТК2 ГОСТ 3514-94</name>
+		<density>3.2</density>
+	</material>
+- 
+	<material>
+		<name>Паронит ПОН ГОСТ 481-80</name>
+		<density>2</density>
+	</material>
+- 
+	<material>
+		<name>Картон прокладочный Б ГОСТ 9347-74</name>
+		<density>0.75</density>
+	</material>
+- 
+	<material>
+		<name>Картон электроизоляционный ЭВ ГОСТ 2824-86</name>
+		<density>1.15</density>
+	</material>
+- 
+	<material>
+		<name>Кожа техническая ГОСТ 20836-75</name>
+		<density>0.86</density>
+	</material>
+- 
+	<material>
+		<name>Припой ПЖК-35</name>
+		<density>8.00</density>
+	</material>
+- 
+	<material>
+		<name>Припой ПОС40 ГОСТ 21930-76</name>
+		<density>9.31</density>
+	</material>
+- 
+	<material>
+		<name>Припой ПОС61 ГОСТ 21930-76</name>
+		<density>8.50</density>
+	</material>
+- 
+	<material>
+		<name>Припой ПМц54 ГОСТ 23137-78</name>
+		<density>8.30</density>
+	</material>
+- 
+	<material>
+		<name>Припой Пср2.5 ГОСТ 19738-2015</name>
+		<density>11.00</density>
+	</material>
+- 
+	<material>
+		<name>Припой Пср25 ГОСТ 19738-2015</name>
+		<density>8.70</density>
+	</material>
+- 
+	<material>
+		<name>Припой Пср45 ГОСТ 19738-2015</name>
+		<density>9.10</density>
+	</material>
+- 
+	<material>
+		<name>Припой Пср70 ГОСТ 19738-2015</name>
+		<density>9.80</density>
+	</material>
+</dataroot>

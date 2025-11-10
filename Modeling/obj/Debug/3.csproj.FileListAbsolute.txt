@@ -1,0 +1,74 @@
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\bin\Debug\Modeling.exe.config
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\bin\Debug\Modeling.exe
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\bin\Debug\Modeling.pdb
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\bin\Debug\KAPITypes.dll
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\3.csproj.AssemblyReference.cache
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\Windows\generateSparWindow.g.cs
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\Pages\generateWholeSpar.g.cs
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\Windows\searchMaterial.g.cs
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\App.g.cs
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\Modeling_Content.g.cs
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\Modeling_MarkupCompile.cache
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\Modeling_MarkupCompile.lref
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\Windows\generateSparWindow.baml
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\Windows\MainWindow.baml
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\Pages\generateWholeSpar.baml
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\Windows\searchMaterial.baml
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\Modeling.g.resources
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\Modeling.Properties.Resources.resources
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\3.csproj.GenerateResource.cache
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\3.csproj.Up2Date
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\Modeling.exe
+C:\Users\log\OneDrive\Рабочий стол\3\modeling-master\Modeling\obj\Debug\Modeling.pdb
+D:\Projects\pp\3\modeling-master\Modeling\bin\Debug\Modeling.exe.config
+D:\Projects\pp\3\modeling-master\Modeling\bin\Debug\Modeling.exe
+D:\Projects\pp\3\modeling-master\Modeling\bin\Debug\Modeling.pdb
+D:\Projects\pp\3\modeling-master\Modeling\bin\Debug\KAPITypes.dll
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\3.csproj.AssemblyReference.cache
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\Modeling.exe.config
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\Windows\generateSparWindow.g.cs
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\Windows\MainWindow.g.cs
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\Pages\generateWholeSpar.g.cs
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\Windows\searchMaterial.g.cs
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\App.g.cs
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\Modeling_Content.g.cs
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\Modeling_MarkupCompile.cache
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\Modeling_MarkupCompile.lref
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\Windows\generateSparWindow.baml
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\Windows\MainWindow.baml
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\Pages\generateWholeSpar.baml
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\Windows\searchMaterial.baml
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\Modeling.g.resources
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\Modeling.Properties.Resources.resources
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\3.csproj.GenerateResource.cache
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\3.csproj.CoreCompileInputs.cache
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\3.csproj.Up2Date
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\Modeling.exe
+D:\Projects\pp\3\modeling-master\Modeling\obj\Debug\Modeling.pdb
+D:\Projects\modeling-app\Modeling\bin\Debug\Modeling.exe.config
+D:\Projects\modeling-app\Modeling\bin\Debug\Modeling.exe
+D:\Projects\modeling-app\Modeling\bin\Debug\Modeling.pdb
+D:\Projects\modeling-app\Modeling\bin\Debug\KAPITypes.dll
+D:\Projects\modeling-app\Modeling\obj\Debug\3.csproj.AssemblyReference.cache
+D:\Projects\modeling-app\Modeling\obj\Debug\Modeling.exe.config
+D:\Projects\modeling-app\Modeling\obj\Debug\Windows\generateSparWindow.g.cs
+D:\Projects\modeling-app\Modeling\obj\Debug\Windows\MainWindow.g.cs
+D:\Projects\modeling-app\Modeling\obj\Debug\Pages\generateWholeSpar.g.cs
+D:\Projects\modeling-app\Modeling\obj\Debug\Windows\searchMaterial.g.cs
+D:\Projects\modeling-app\Modeling\obj\Debug\App.g.cs
+D:\Projects\modeling-app\Modeling\obj\Debug\Modeling_Content.g.cs
+D:\Projects\modeling-app\Modeling\obj\Debug\Modeling_MarkupCompile.cache
+D:\Projects\modeling-app\Modeling\obj\Debug\Modeling_MarkupCompile.lref
+D:\Projects\modeling-app\Modeling\obj\Debug\Windows\generateSparWindow.baml
+D:\Projects\modeling-app\Modeling\obj\Debug\Windows\MainWindow.baml
+D:\Projects\modeling-app\Modeling\obj\Debug\Pages\generateWholeSpar.baml
+D:\Projects\modeling-app\Modeling\obj\Debug\Windows\searchMaterial.baml
+D:\Projects\modeling-app\Modeling\obj\Debug\Modeling.g.resources
+D:\Projects\modeling-app\Modeling\obj\Debug\Modeling.Properties.Resources.resources
+D:\Projects\modeling-app\Modeling\obj\Debug\3.csproj.GenerateResource.cache
+D:\Projects\modeling-app\Modeling\obj\Debug\3.csproj.CoreCompileInputs.cache
+D:\Projects\modeling-app\Modeling\obj\Debug\3.csproj.Up2Date
+D:\Projects\modeling-app\Modeling\obj\Debug\Modeling.exe
+D:\Projects\modeling-app\Modeling\obj\Debug\Modeling.pdb
